@@ -4,7 +4,7 @@ Hi 👋 My name is Sophie Davis
 Junior Web Developer and Designer
 --------------------------
 
-*   🌍  I'm based in Plymouth, South-West England
+*   🌍  I'm based in South-West England
 *   🖥️  See my portfolio at [my Portfolio:](http://myportfolio)
 *   ✉️  You can contact me at [sophielouisedavis@live.com](mailto:sophielouisedavis@live.com)
 *   🚀  I'm currently working on [this project](http://myapp.com)
